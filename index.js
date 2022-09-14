@@ -71,7 +71,15 @@ const questions = [
           type: 'list',
           name: 'license',
           message: 'Select a license that applies to your project',
-          choices: ['GPL', 'CC--0', 'MIT', 'None']
+          choices: ['GPL', 'CC--0', 'MIT', 'None'],
+          validate: licenseChoice => {
+            if (licenseChoice) {
+                return true;
+            } else {
+                console.log('Choose a license!')
+                return false;
+            }
+        }
       },
       {
           type: 'input',

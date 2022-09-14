@@ -20,7 +20,8 @@
   ## Usage
   Once a repo is cloned and packages are installed, the user can access the terminal and initiate “ node index.js” in index.js and this will initiate the question prompts. Users will fill out according to their needs and project basis and will have completed a readMe.
 
-  undefined
+  ## License
+  This project is covered under the MIT license. To learn more about what this means, click the license button at the top.
 
   ## Contribution
   None
@@ -33,7 +34,6 @@
   GitHub: https://github.com/jonathan-lee8  
   Email: jonathanhlee8@gmail.com
 
-
-  ## Demonstration 
-
-  https://drive.google.com/file/d/1WJ8w5KpSZvCY75jKKhUq1Ewyw-HjZMbv/view
+  ## Demonstration
+  https://drive.google.com/file/d/16Hsk11YpwtWBRKPlRbobtRI9XxFKI7Qt/view
+  
